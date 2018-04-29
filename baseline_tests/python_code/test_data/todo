@@ -1,0 +1,12 @@
+Define threshold and set to logic high or low.
+Set outliers to logic high or low
+Find samplerate
+Set delay try different freqencies, increase with a factor 10 or 100
+
+Increase workload of CPU and see if the expected frequency get lower use: stress-ng or sysbench
+
+(1) projektbeskrivelsen konverteret til læringsmål
+
+Udkast til rapport (overskrifter, struktur)
+
+Næste møde næste tirsdag kl 10.

@@ -1,0 +1,4 @@
+﻿Measure,P1:duty(C1),P2:freq(C1),P3:- - -,P4:- - -,P5:- - -,P6:- - -,
+Unit,%,Hz,,,,,
+value,44.369,277.9 KHz
+status,"Parameter on rising edge, Parameter on falling edge.",Parameter on rising edge.,,,,,

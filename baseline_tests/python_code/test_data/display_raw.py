@@ -2,11 +2,19 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import numpy.polynomial.polynomial as poly
+import argparse
+
 
 timeData = []
 ampData = []
 
-f = open ('fast_waveform.txt', "r")
+
+parser = argparse.ArgumentParser()
+parser.add_argument('--n', help='the name/path to the file to analyse')
+args = parser.parse_args()
+
+f = open (args.n, "r")
+
 
 for line in f:
     csv = line.split(',')

@@ -1,0 +1,4 @@
+﻿Measure,P1:freq(C1),P2:- - -,P3:- - -,P4:- - -,P5:- - -,P6:- - -,
+Unit,Hz,,,,,,
+value,5.8828e+3,,,,,,
+status,Parameter on rising edge.,,,,,,

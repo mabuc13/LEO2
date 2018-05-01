@@ -1,0 +1,2 @@
+stress -c 1000 -i 1000 -m 20 --vm-bytes 100M -t 20s
+The tests was run at 1KHz with priority 1 on the process

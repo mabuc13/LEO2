@@ -143,11 +143,11 @@ print "The frequency was calculated to: ", freq
 
 my_new_list = []
 for i in highIntervals:
-    my_new_list.append(i )
+    my_new_list.append(i*1000000 )
 
 
 # Plot the histogram.
-plt.hist(my_new_list, bins=50, alpha=0.6, color='g')
+plt.hist(my_new_list, bins=100, alpha=0.6, color='g')
 
 # Plot the PDF.
 #xmin, xmax = plt.xlim()

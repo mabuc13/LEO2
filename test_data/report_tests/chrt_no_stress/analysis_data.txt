@@ -1,0 +1,88 @@
+The sample rate of this data:  100397.614314
+Which is  1008.873088  samples per period
+Low flank deviation 0.00526691318517
+High flank standard deviation 0.00640326910941
+Experiment test inteval:  0.99079
+Number of high flanks:  99
+Number of low flanks:  98
+High flank mean:  5.01909090909
+Period mu:  10.0487755102  Period std:  0.00852713148642
+Low flank mean:  5.01969387755
+The frequency was calculated to:  99.5146124007
+The sample rate of this data:  100397.614314
+Which is  1008.873088  samples per period
+Low flank deviation 0.00526691318517
+High flank standard deviation 0.00640326910941
+Experiment test inteval:  0.99079
+Number of high flanks:  99
+Number of low flanks:  98
+High flank mean:  5.01909090909
+Period mu:  10.0487755102  Period std:  0.00852713148642
+Low flank mean:  5.01969387755
+The frequency was calculated to:  99.5146124007
+The sample rate of this data:  501953.125
+Which is  1030.50976563  samples per period
+Low flank deviation 0.00203122553967
+High flank standard deviation 0.00533109876434
+Experiment test inteval:  0.19728
+Number of high flanks:  96
+Number of low flanks:  96
+High flank mean:  1.02535416667
+Period mu:  2.053  Period std:  0.0057308031953
+Low flank mean:  1.02564583333
+The frequency was calculated to:  487.092060399
+The sample rate of this data:  501953.125
+Which is  1030.50976563  samples per period
+Low flank deviation 0.00203122553967
+High flank standard deviation 0.00533109876434
+Experiment test inteval:  0.19728
+Number of high flanks:  96
+Number of low flanks:  96
+High flank mean:  1.02535416667
+Period mu:  2.053  Period std:  0.0057308031953
+Low flank mean:  1.02564583333
+The frequency was calculated to:  487.092060399
+The sample rate of this data:  503816.793893
+Which is  529.12492427  samples per period
+Low flank deviation 1.18766977551
+High flank standard deviation 1.63175181378
+Experiment test inteval:  0.198872
+Number of high flanks:  189
+Number of low flanks:  189
+High flank mean:  523.714285714
+Period mu:  1050.23280423  Period std:  1.95393304094
+Low flank mean:  524.518518519
+The frequency was calculated to:  952.169838887
+The sample rate of this data:  503816.793893
+Which is  529.12492427  samples per period
+Low flank deviation 1.18766977551
+High flank standard deviation 1.63175181378
+Experiment test inteval:  0.198872
+Number of high flanks:  189
+Number of low flanks:  189
+High flank mean:  523.714285714
+Period mu:  1050.23280423  Period std:  1.95393304094
+Low flank mean:  524.518518519
+The frequency was calculated to:  952.169838887
+The sample rate of this data:  5026525.19894
+Which is  765.222730055  samples per period
+Low flank deviation 3.47571728053
+High flank standard deviation 0.286545855199
+Experiment test inteval:  0.0198168
+Number of high flanks:  130
+Number of low flanks:  130
+High flank mean:  75.44
+Period mu:  152.236923077  Period std:  3.4827401326
+Low flank mean:  76.5969230769
+The frequency was calculated to:  6568.70869293
+The sample rate of this data:  5026525.19894
+Which is  765.222730055  samples per period
+Low flank deviation 3.47571728053
+High flank standard deviation 0.286545855199
+Experiment test inteval:  0.0198168
+Number of high flanks:  130
+Number of low flanks:  130
+High flank mean:  75.44
+Period mu:  152.236923077  Period std:  3.4827401326
+Low flank mean:  76.5969230769
+The frequency was calculated to:  6568.70869293

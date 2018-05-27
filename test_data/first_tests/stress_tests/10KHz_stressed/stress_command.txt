@@ -1,0 +1,3 @@
+stress -c 10 -i 10 -m 2 --vm-bytes 400M -t 60s
+
+This means that there's 10 CPU stressors, 10 I/O stresstors 2 memory allocators and 400MB allocated to virtual memory
